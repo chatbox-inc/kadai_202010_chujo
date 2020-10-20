@@ -1,0 +1,129 @@
+.textarea-2 {
+  margin-top: 3.5em;
+}
+
+@media (min-width: 768px) {
+  .text {
+    width: 510px;
+    margin: 0 auto;
+  }
+}
+
+section.concept .conceptbox {
+  background: white;
+  margin: 15px 0;
+  padding-bottom: 40px;
+  padding-top: 20px;
+  font-size: 16px;
+}
+
+section.concept .conceptbox .concept-h3 {
+  margin-bottom: 52px;
+  font-size: 1.08rem;
+}
+
+@media (min-width: 768px) {
+  section.top-photo-1 {
+    width: 760px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+
+section.top-photo-2 {
+  margin-top: 60px;
+  margin-bottom: 66px;
+}
+
+@media (min-width: 768px) {
+  section.top-photo-2 {
+    width: 760px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+
+section.top-photo-3 {
+  margin-bottom: 66px;
+}
+
+section.interview .interview-imgs {
+  margin-top: 30px;
+}
+
+@media (min-width: 768px) {
+  section.interview .interview-img {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+}
+
+section.interview .interview-btn {
+  display: block;
+  width: 70%;
+  height: 51%;
+  border: 4px solid #fff;
+  position: absolute;
+  top: 24%;
+  left: 15%;
+  z-index: 1;
+  color: white;
+}
+
+section.interview .interview-btn p {
+  position: absolute;
+  top: 50%;
+  margin-top: -7%;
+  width: 100%;
+  text-align: center;
+  font-size: 26px;
+}
+
+section.studio-details .studio-name {
+  margin-top: 90px;
+  margin-bottom: 60px;
+  display: block;
+}
+
+@media (min-width: 768px) {
+  section.studio-details .studio-name {
+    margin-top: 80px;
+  }
+}
+
+section.studio-details .adress .table {
+  font-size: 12px;
+  line-height: 1.75;
+  width: 90%;
+  margin: 0 auto;
+  margin-bottom: 40px;
+  letter-spacing: .02em;
+}
+
+@media (min-width: 768px) {
+  section.studio-details .adress .table {
+    font-size: 16px;
+    line-height: 1.75;
+    letter-spacing: .04em;
+  }
+}
+
+section.studio-details .adress .table td {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+section.studio-details .adress button.btn {
+  width: 50%;
+}
+
+@media (min-width: 768px) {
+  section.studio-details .adress button.btn {
+    width: 100%;
+  }
+}
+
+section.img-btn {
+  margin-top: 30px;
+}
+/*# sourceMappingURL=styles2.css.map */
