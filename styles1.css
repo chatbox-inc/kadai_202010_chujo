@@ -32,7 +32,7 @@ img {
 
 @media (min-width: 768px) {
   .wrapper {
-    max-width: 914px;
+    width: 70%;
     margin: 0 auto;
   }
 }
@@ -83,7 +83,7 @@ section .photobox img {
 }
 
 section .movies {
-  padding: 75px 0 20px 0;
+  padding: 70px 0;
 }
 
 section.news {
